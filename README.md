@@ -1,6 +1,6 @@
 # TEST STATUS
 
-[![Build status](https://ci.appveyor.com/api/projects/status/e43pxdmel8b7ka8d?svg=true)](https://ci.appveyor.com/project/ayostar/ra-hw-1-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/sydasbxq9l316d72?svg=true)](https://ci.appveyor.com/project/ayostar/1-2-ra-homework-components-store-class)
 
 [[Github Pages](https://github.com/ayostar/1-2-ra-homework-components-store-class/)]
 
