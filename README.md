@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/sydasbxq9l316d72?svg=true)](https://ci.appveyor.com/project/ayostar/1-2-ra-homework-components-store-class)
 
-[[Github Pages](https://github.com/ayostar/1-2-ra-homework-components-store-class/)]
+[[Github Pages](https://ayostar.github.io/1-2-ra-homework-components-store-class/)]
 
 # Страница интернет-магазина
 
