@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import ShopItem from '../items/ShopItem';
+import './ShopItemClass.css';
 
 class ShopItemClass extends React.Component {
   render() {

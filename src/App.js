@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
-// import './App.css';
-import './css/main.css';
+import './App.css';
+// import './css/main.css';
 import ShopItemClass from './components/ShopItemClass';
 import ShopItem from './items/ShopItem';
 
