@@ -1,3 +1,4 @@
+import React from 'react';
 import PropTypes from 'prop-types';
 import ShopItem from '../items/ShopItem';
 
@@ -26,7 +27,7 @@ class ShopItemClass extends React.Component {
   }
 }
 
-ShopItemFunc.propTypes = {
+ShopItemClass.propTypes = {
   item: PropTypes.instanceOf(ShopItem).isRequired,
 };
 
